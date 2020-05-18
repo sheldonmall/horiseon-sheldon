@@ -1,15 +1,17 @@
 # horiseon-sheldon
 
-<!--This is my first Readme created using Markdown-->   
+<!--This is my first Readme created using Markdown-->
 **Installation**\
-There are no installation instructions for this project.   
+There are no installation instructions for this project.\
 
-**Usage**   
+**Usage**\
 There are no usage instructions for this project.
 
-**Credit**   
+**Credit**\
 There are no credits for this project.
-
-**License**   
-There are no licence requirements for this project.  
+\
+\
+\
+**License**\
+There are no licence requirements for this project.\
 
